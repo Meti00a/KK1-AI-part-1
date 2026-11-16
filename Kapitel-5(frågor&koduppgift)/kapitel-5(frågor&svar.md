@@ -22,7 +22,7 @@ Resonemangfrågor
 
 1. Stina påstår att man i maskininlärning alltid vill ha modeller som genomför så bra prediktioner som möjligt. Kalle påstår att det inte riktigt stämmer eftersom tid också är en viktig aspekt. Både för själva modellträningen och för själva prediktionerna. Vad säger du?
 
-svar: Jag tycker att både stina och kalle har rätt. Det är viktigt att att en modell ger bra förutsägelser. Men man måste ha koll på hur lång tid det kan ta för att modellen ska träna och hur snabb den ger resultat. En modell som är mer advancerad kan ta mycket mer längre tid men ger endast lite bättre resultat. Det är därför man bör hitta en bra balans mellan modellens prestanda, men också ha koll på tiden det tar för att få resultat.
+svar:Jag tycker att både stina och kalle har rätt. Det är viktigt att att en modell ger bra förutsägelser. Men man måste ha koll på hur lång tid det kan ta för att modellen ska träna och hur snabb den ger resultat. En modell som är mer advancerad kan ta mycket mer längre tid men ger endast lite bättre resultat. Det är därför man bör hitta en bra balans mellan modellens prestanda, men också ha koll på tiden det tar för att få resultat.
 
 1. Efter att vi genomfört en PCA, vad händer med tolkningen av variablerna?
 
